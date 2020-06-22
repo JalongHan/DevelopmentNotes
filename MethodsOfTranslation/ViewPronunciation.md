@@ -11,3 +11,12 @@
 -遍历  
 -performTraversals() 执行遍历  
 
+**rotation[肉tei审]**  
+-旋转  
+
+**pivot[配v特]**  
+-中心点,支点 pivotX:旋转的支点X,一般在旋转动画的参数中使用.  
+
+**alpha[阿尔法]**  
+-透明度  
+
